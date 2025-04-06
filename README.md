@@ -3,10 +3,10 @@ This repo holds a traffic camera implementation that uses a single web cam to es
 
 
 # Deps
-OpenCV (Separate installation, TODO: Only for HW IO, remove dep and make own mJpeg framework)
-PyTorch (separate installation)
-YOLOv5 (submodule)
-EasyOCR (submodule)
+- OpenCV (Separate installation, TODO: Only for HW IO, remove dep and make own mJpeg framework)
+- PyTorch (separate installation)
+- YOLOv5 (submodule)
+- EasyOCR (submodule)
 
 
 # System design
